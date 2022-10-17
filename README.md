@@ -8,4 +8,4 @@ Live version can be viewed here: https://www.youtube.com/watch?v=Sy-wVib1bgw&fea
 
 # License
 
-This project is licensed under MIT license.
+This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
